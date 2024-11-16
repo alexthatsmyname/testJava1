@@ -1,0 +1,7 @@
+titlu,autor,anPublicare,numarPagini,numarExemplare
+O scrisoare pierduta,I.L. Caragiale,1884,150,
+Revista literară,,2021,,500
+Ion,Liviu Rebreanu,1920,400,
+Dilema veche,,2023,,200
+Morometii,Marin Preda,1955,500,
+Gazeta sporturilor,,2022,,1000
